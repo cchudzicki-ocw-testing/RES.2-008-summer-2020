@@ -5,20 +5,20 @@ draft: false
 title: Coding Labs
 uid: 2e0a9610-b5d1-4acf-96d5-f109004f312b
 ---
-[R0 (via nbviewer)](https://nbviewer.org/urls/draft.ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/MITRes-2-008Su22_coding0.ipynb) (download "" ipynb file)
+[Python Primer (via nbviewer)](https://nbviewer.org/urls/draft.ocw.mit.edu/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/MITRes-2-008Su22_coding0.ipynb) (download "Python Primer" ipynb file)
 
-R1 (via nbviewer) (download "" ipynb file)
+Energy and Plant Power (via nbviewer) (download "Energy and Plant Power" ipynb file)
 
-R2 (via nbviewer) (download "" ipynb file)
+Entropy and CO2 Sequestration (via nbviewer) (download "Entropy and CO2 Sequestration" ipynb file)
 
-R3 (via nbviewer) (download "" ipynb file)
+Thermodynamic Cycles and Carbon Intensity (via nbviewer) (download "Thermodynamic Cycles and Carbon Intensity" ipynb file)
 
-R4 (via nbviewer) (download "" ipynb file)
+Radiation Heat Transfer and Climate Change (via nbviewer) (download "Radiation Heat Transfer and Climate Change" ipynb file)
 
-R5 (via nbviewer) (download "" ipynb file)
+Thermo Rankine Cycles (via nbviewer) (download "Thermo Rankine Cycles" ipynb file)
 
-R6 (via nbviewer) (download "" ipynb file)
+Open Cycles and Concentrated Solar Power (Stirling Engine) (via nbviewer) (download "Open Cycles and Concentrated Solar Power (Stirling Engine)" ipynb file)
 
-R7 (via nbviewer) (download "" ipynb file)
+Open Systems and Concentrated Solar Power (Rankine Cycle) (via nbviewer) (download "Open Systems and Concentrated Solar Power (Rankine Cycle)" ipynb file)
 
-R8 (via nbviewer) (download "" ipynb file)
+Methane Emissions and Brayton Cycle (via nbviewer) (download "Methane Emissions and Brayton Cycle" ipynb file)
