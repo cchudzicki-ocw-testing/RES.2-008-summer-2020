@@ -9,7 +9,7 @@ uid: 2e0a9610-b5d1-4acf-96d5-f109004f312b
 
 Energy and Plant Power (via nbviewer) (download "Energy and Plant Power" ipynb file)
 
-Entropy and CO2 Sequestration (via nbviewer) (download "Entropy and CO2 Sequestration" ipynb file)
+Entropy and CO\\(\_\\text2\\) Sequestration (via nbviewer) (download "Entropy and CO2 Sequestration" ipynb file)
 
 Thermodynamic Cycles and Carbon Intensity (via nbviewer) (download "Thermodynamic Cycles and Carbon Intensity" ipynb file)
 
