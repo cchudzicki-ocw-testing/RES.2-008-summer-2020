@@ -29,8 +29,8 @@ In this course you will learn the three laws of thermodynamics, explore concepts
 
 #### Learning Objectives
 
-The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying       
-special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout       
+The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying        
+special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout        
 this course, students will:
 
 1. Develop an understanding of the fundamental laws of thermodynamics and an intuition for how they relate to observed physical phenomena through concepts like energy, entropy, and enthalpy.
@@ -58,4 +58,4 @@ The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %
 
 #### Requirements
 
-Weekly deliverables will include problem sets on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a  final group project, you will pick one of these systems and provide an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
+Weekly deliverables will include {{% resource_link "7b9bf0d6-7458-4030-a9a2-c5d604c7559d" "problem sets" %}} on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a  final group project, you will pick one of these systems and provide an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
