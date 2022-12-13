@@ -39,7 +39,7 @@ The primary aim of this course is to have students reach an undergraduate-level 
 
 #### Course Format
 
-The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %}} has seven chapters.  Each chapter is paired with a {{% resource_link "2e0a9610-b5d1-4acf-96d5-f109004f312b" "Python Jupyter notebook" %}} that provides students a means to explore and gain an intuition for the various thermodynamic properties presented, as well as provide exposure to the computational tools necessary for analyzing various thermodynamic systems. Students are encouraged to complete both the qualitative concept-question style and quantitative computation exercises given in these notebooks after reading each chapter to solidify understanding.
+The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %}} has seven chapters. Each chapter is paired with a {{% resource_link "2e0a9610-b5d1-4acf-96d5-f109004f312b" "Python Jupyter notebook" %}} that provides students a means to explore and gain an intuition for the various thermodynamic properties presented, as well as provide exposure to the computational tools necessary for analyzing various thermodynamic systems. Students are encouraged to complete both the qualitative concept-question style and quantitative computation exercises given in these notebooks after reading each chapter to solidify understanding.
 
 #### Topic Outline
 
