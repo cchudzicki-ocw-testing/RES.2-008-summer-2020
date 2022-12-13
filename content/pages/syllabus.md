@@ -29,8 +29,8 @@ In this course you will learn the three laws of thermodynamics, explore concepts
 
 #### Learning Objectives
 
-The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying      
-special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout      
+The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying       
+special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout       
 this course, students will:
 
 1. Develop an understanding of the fundamental laws of thermodynamics and an intuition for how they relate to observed physical phenomena through concepts like energy, entropy, and enthalpy.
@@ -41,7 +41,7 @@ this course, students will:
 
 #### Course Format
 
-The online textbook has XX chapters.  Each chapter is paired with a Python Jupyter notebook that provides students a means to explore and gain an intuition for the various thermodynamic properties presented, as well as provide exposure to the computational tools necessary for analyzing various thermodynamic systems. Students are encouraged to complete both the qualitative concept-question style and quantitative computation exercises given in these notebooks after reading each chapter to solidify understanding.
+The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %}} has seven chapters.  Each chapter is paired with a {{% resource_link "2e0a9610-b5d1-4acf-96d5-f109004f312b" "Python Jupyter notebook" %}} that provides students a means to explore and gain an intuition for the various thermodynamic properties presented, as well as provide exposure to the computational tools necessary for analyzing various thermodynamic systems. Students are encouraged to complete both the qualitative concept-question style and quantitative computation exercises given in these notebooks after reading each chapter to solidify understanding.
 
 #### Topic Outline
 
