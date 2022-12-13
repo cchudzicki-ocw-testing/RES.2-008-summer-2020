@@ -27,6 +27,18 @@ From air-conditioners and electric vehicles to humans and photosynthesizing plan
 
 In this course you will learn the three laws of thermodynamics, explore concepts like entropy and enthalpy, and investigate the causes and effects of global warming from a thermodynamics perspective. We will also apply these concepts to learning about state-of-the-art energy conversion and storage technologies like heat pumps, hydrogen fuel cells, metal-air batteries, artificial photosynthesis, molten salt storage, concentrated solar power, and many more.
 
+#### Learning Objectives
+
+The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying  
+special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout  
+this course, students will:
+
+1. Develop an understanding of the fundamental laws of thermodynamics and an intuition for how they relate to observed physical phenomena through concepts like energy, entropy, and enthalpy.
+2. Apply these thermodynamic principles to illuminate the impact of human industrialization on the climate.
+3. Think broadly about the greater context of climate change and the history of the Earth and Universe as a whole to better understand the competing timescales of human consumption and the carbon cycle.
+4. Use Python to evaluate the performance and climatological impact of thermodynamic systems that are contributing to climate change and their proposed replacements.
+5. Work together as teams to evaluate the efficacy of leading climate change mitigation strategies using the theory and computational tools learned throughout this course.
+
 #### Requirements
 
 Weekly deliverables will include problem sets on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a  final group project, you will pick one of these systems and provide an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
