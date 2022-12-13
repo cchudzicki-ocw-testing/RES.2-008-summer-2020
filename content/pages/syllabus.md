@@ -15,6 +15,10 @@ uid: 5d68ac30-d6c2-46e5-97fb-7c90fd68540f
 
 Proficiency in single-variable calculus and experience with basic programming are required for this course. Classes taken in chemistry, physics, and biology are helpful but not required.
 
+#### About this Course
+
+ 
+
 #### Course Description
 
 From air-conditioners and electric vehicles to humans and photosynthesizing plants, every system that converts energy from one form to another is governed by the laws of thermodynamics. So fundamental are these laws that Einstein himself once said they comprise "the only physical theory of universal content, which I am convinced…will never be overthrown." However, with great power comes great responsibility. Our understanding of thermodynamics enabled the industrial revolution and virtually every technological breakthrough since, but it has also led to the over-consumption of fossil fuels and associated global warming. Now we need to turn the problem on its head and use these theories to  find a solution. 
