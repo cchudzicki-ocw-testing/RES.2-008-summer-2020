@@ -29,9 +29,7 @@ In this course you will learn the three laws of thermodynamics, explore concepts
 
 #### Learning Objectives
 
-The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying        
-special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout        
-this course, students will:
+The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout this course, students will:
 
 1. Develop an understanding of the fundamental laws of thermodynamics and an intuition for how they relate to observed physical phenomena through concepts like energy, entropy, and enthalpy.
 2. Apply these thermodynamic principles to illuminate the impact of human industrialization on the climate.
