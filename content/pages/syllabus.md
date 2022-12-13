@@ -29,8 +29,8 @@ In this course you will learn the three laws of thermodynamics, explore concepts
 
 #### Learning Objectives
 
-The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying   
-special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout   
+The primary aim of this course is to have students reach an undergraduate-level understanding of thermodynamics through the lens of climate change, paying    
+special attention to placing fundamental concepts within a narrative that emphasizes both the benefits and dangers of technological progress. Throughout    
 this course, students will:
 
 1. Develop an understanding of the fundamental laws of thermodynamics and an intuition for how they relate to observed physical phenomena through concepts like energy, entropy, and enthalpy.
@@ -43,14 +43,14 @@ this course, students will:
 
 Thermodynamics and Climate Change is not organized according to the fundamental physics as is usually the case in texts on these subjects, but rather by the story of anthropogenic climate change itself. We will see the motivation to dig deeper into thermodynamics emerge organically from the narrative as we progress through the following units:
 
-1. Universal Beginnings, where we will discuss at a high level the history of the Universe, including the formation of the Earth and the importance and ubiquity of solar energy. The origins of Thermodynamics as a field will be discussed as well.
-2. Energy, Climate, and the Carbon Cycle, where we will learn how the Earth's climate was established, various forms of energy and First Law of Thermodynamics, the greenhouse effect, and the delicate balance between atmospheric composition and temperature that enables life to exist.
-3. Controlling Fire, where we will take a look at the origins of thermodynamics and the physics of  re, heat, and combustion chemistry, as well as early human uses of  fire and its effect on the climate.
-4. Entropy and a Move Towards Chaos, where we extend our understanding of heat with the concept of entropy and its relationship to processes, cycles, and the Second Law of Thermodynamics.
-5. Engines, Power, and the Anthropocene, in which we will develop an understanding of engines and other power machinery, as well as the climate change caused by human use of fossil fuels and industrialization.
-6. A Return to Renewables, where we will look at carbon-neutral alternatives to fossil fuels, energy storage, and how the world could be powered sustainably by solar and geothermal energy.
-7. Mitigating the Climate Crisis, where we will explore promising approaches to slowing and altogether stopping global warming, as well as how to evaluate these approaches on technical and ethical merit.
-8. Surviving the Anthropocene, in which we grapple with the fact that the climate has already changed and learn the thermodynamics required for adapting to the Anthropocene.
+1. *Universal Beginnings*, where we will discuss at a high level the history of the Universe, including the formation of the Earth and the importance and ubiquity of solar energy. The origins of Thermodynamics as a field will be discussed as well.
+2. *Energy, Climate, and the Carbon Cycle*, where we will learn how the Earth's climate was established, various forms of energy and First Law of Thermodynamics, the greenhouse effect, and the delicate balance between atmospheric composition and temperature that enables life to exist.
+3. *Controlling Fire*, where we will take a look at the origins of thermodynamics and the physics of  re, heat, and combustion chemistry, as well as early human uses of  fire and its effect on the climate.
+4. *Entropy and a Move Towards Chaos*, where we extend our understanding of heat with the concept of entropy and its relationship to processes, cycles, and the Second Law of Thermodynamics.
+5. *Engines, Power, and the Anthropocene*, in which we will develop an understanding of engines and other power machinery, as well as the climate change caused by human use of fossil fuels and industrialization.
+6. *A Return to Renewables*, where we will look at carbon-neutral alternatives to fossil fuels, energy storage, and how the world could be powered sustainably by solar and geothermal energy.
+7. *Mitigating the Climate Crisis*, where we will explore promising approaches to slowing and altogether stopping global warming, as well as how to evaluate these approaches on technical and ethical merit.
+8. *Surviving the Anthropocene*, in which we grapple with the fact that the climate has already changed and learn the thermodynamics required for adapting to the Anthropocene.
 
 #### Requirements
 
