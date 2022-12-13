@@ -52,7 +52,6 @@ The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %
 5. *Engines, Power, and the Anthropocene*, in which we will develop an understanding of engines and other power machinery, as well as the climate change caused by human use of fossil fuels and industrialization.
 6. *A Return to Renewables*, where we will look at carbon-neutral alternatives to fossil fuels, energy storage, and how the world could be powered sustainably by solar and geothermal energy.
 7. *Mitigating the Climate Crisis*, where we will explore promising approaches to slowing and altogether stopping global warming, as well as how to evaluate these approaches on technical and ethical merit.
-8. *Surviving the Anthropocene*, in which we grapple with the fact that the climate has already changed and learn the thermodynamics required for adapting to the Anthropocene.
 
 #### Requirements
 
