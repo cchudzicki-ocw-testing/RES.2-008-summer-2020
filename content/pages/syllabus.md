@@ -9,7 +9,7 @@ uid: 5d68ac30-d6c2-46e5-97fb-7c90fd68540f
 ---
 #### Course Meeting Times
 
-? sessions / week, ? hours / session
+2 sessions / week, 2 hours / session
 
 #### Prerequisites
 
