@@ -45,9 +45,9 @@ The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %
 
 *Thermodynamics and Climate Change* is not organized according to the fundamental physics as is usually the case in texts on these subjects, but rather by the story of anthropogenic climate change itself. We will see the motivation to dig deeper into thermodynamics emerge organically from the narrative as we progress through the following units:
 
-1. *Universal Beginnings*, where we will discuss at a high level the history of the Universe, including the formation of the Earth and the importance and ubiquity of solar energy. The origins of Thermodynamics as a field will be discussed as well.
+1. *Universal Beginnings*, where we will discuss at a high level the history of the Universe, including the formation of the Earth and the importance and ubiquity of solar energy. The origins of thermodynamics as a field will be discussed as well.
 2. *Energy, Climate, and the Carbon Cycle*, where we will learn how the Earth's climate was established, various forms of energy and First Law of Thermodynamics, the greenhouse effect, and the delicate balance between atmospheric composition and temperature that enables life to exist.
-3. *Controlling Fire*, where we will take a look at the origins of thermodynamics and the physics of  re, heat, and combustion chemistry, as well as early human uses of  fire and its effect on the climate.
+3. *Controlling Fire*, where we will take a look at the origins of thermodynamics and the physics of fire, heat, and combustion chemistry, as well as early human uses of  fire and its effect on the climate.
 4. *Entropy and a Move Towards Chaos*, where we extend our understanding of heat with the concept of entropy and its relationship to processes, cycles, and the Second Law of Thermodynamics.
 5. *Engines, Power, and the Anthropocene*, in which we will develop an understanding of engines and other power machinery, as well as the climate change caused by human use of fossil fuels and industrialization.
 6. *A Return to Renewables*, where we will look at carbon-neutral alternatives to fossil fuels, energy storage, and how the world could be powered sustainably by solar and geothermal energy.
@@ -55,4 +55,4 @@ The {{% resource_link "a4dbd478-faa1-404c-aeb6-4e6f9d3165a7" "online textbook" %
 
 #### Requirements
 
-Weekly deliverables will include {{% resource_link "7b9bf0d6-7458-4030-a9a2-c5d604c7559d" "problem sets" %}} on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a  final group project, you will pick one of these systems and provide an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
+Weekly deliverables will include {{% resource_link "7b9bf0d6-7458-4030-a9a2-c5d604c7559d" "problem sets" %}} on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a final group project, you will pick one of these systems and provide an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
