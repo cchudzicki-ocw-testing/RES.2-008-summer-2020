@@ -7,7 +7,7 @@ uid: a4dbd478-faa1-404c-aeb6-4e6f9d3165a7
 ---
 {{% resource_link "6c9990f8-d8e4-49b7-abdc-3728defef8de" "Full Textbook: Thermodynamics and Climate Change (PDF - 6.52 MB)" %}}
 
-{{% resource_link "7c959128-810a-4fab-8cbf-e6f730304f5c" "Chapter 1: Universal Beginnings (PDF - 1.2 MB)" %}}
+{{% resource_link "7c959128-810a-4fab-8cbf-e6f730304f5c" "Chapter 1: Universal Beginnings (PDF - 1.1 MB)" %}}
 
 {{% resource_link "387f5c95-bed1-4788-8256-88c88cba2771" "Chapter 2: Energy, Climate, and the Carbon Cycle (PDF - 1 MB)" %}}
 
