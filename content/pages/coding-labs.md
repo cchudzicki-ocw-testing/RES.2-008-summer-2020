@@ -19,6 +19,6 @@ Lab 5: Thermo Rankine Cycles ([view via Jupyter nbviewer](https://nbviewer.org/g
 
 Lab 6a: Open Systems and Concentrated Solar Power (Stirling Engine) ([view via Jupyter nbviewer](https://nbviewer.org/github/ptgodart/thermodynamics_and_climate_change/blob/main/CODING_LABS/R6_open_cycles_and_concentrated_solar_power%20(stirling%20engine).ipynb)) ({{% resource_link "8eb2e5a7-8367-4f03-bf09-8f6503bfe0a7" "download ipynb file" %}})
 
-Lab 6b: Open Systems and Concentrated Solar Power (Rankine Cycle) ([view via Jupyter nbviewer](https://nbviewer.org/github/ptgodart/thermodynamics_and_climate_change/blob/main/CODING_LABS/R7_open_systems_and_concentrated_solar_power%20(rankine%20cycle).ipynb)) ({{% resource_link "8d62bdc0-6966-4ce7-8bec-4253c3b8a8c1" "download ipynb file" %}})
+Lab 6b: Open Systems and Concentrated Solar Power (Rankine Cycle) ([view via Jupyter nbviewer](https://nbviewer.org/github/ptgodart/thermodynamics_and_climate_change/blob/main/CODING_LABS/R7_open_systems_and_concentrated_solar_power%20(rankine%20cycle).ipynb)) ({{% resource_link "7620d06f-99ca-428a-813b-c3266bfe6baa" "download ipynb file" %}})
 
-Lab 7: Climate Impact of Methane Combustion (CH4) ([view via Jupyter nbviewer](https://nbviewer.org/github/ptgodart/thermodynamics_and_climate_change/blob/main/CODING_LABS/R8_methane_emissions_and_brayton_cycle.ipynb)) ({{% resource_link "1793689f-8041-445b-ae7b-a6e6aea379b1" "download ipynb file" %}})
+Lab 7: Climate Impact of Methane Combustion (CH4) ([view via Jupyter nbviewer](https://nbviewer.org/github/ptgodart/thermodynamics_and_climate_change/blob/main/CODING_LABS/R8_methane_emissions_and_brayton_cycle.ipynb)) ({{% resource_link "9f2e8ec2-06aa-45bd-afaa-497744ebb820" "download ipynb file" %}})
