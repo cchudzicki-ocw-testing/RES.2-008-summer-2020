@@ -5,7 +5,7 @@ draft: false
 title: Online Textbook
 uid: a4dbd478-faa1-404c-aeb6-4e6f9d3165a7
 ---
-{{% resource_link "1292f1f7-ab1a-4da4-a915-642df88d0dcb" "Full Textbook: Thermodynamics and Climate Change (PDF - 6.52 MB)" %}}
+{{% resource_link "1292f1f7-ab1a-4da4-a915-642df88d0dcb" "Full Textbook: Thermodynamics and Climate Change (PDF - 6.5 MB)" %}}
 
 {{% resource_link "7c959128-810a-4fab-8cbf-e6f730304f5c" "Chapter 1: Universal Beginnings (PDF - 1.1 MB)" %}}
 
