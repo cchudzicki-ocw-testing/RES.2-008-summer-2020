@@ -30,7 +30,9 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
+    "content": [
+      "6cdfa32c-4122-4f9c-b2ff-b85adc9db9e7"
+    ],
     "website": "ocw-www"
   },
   "course_image": {
