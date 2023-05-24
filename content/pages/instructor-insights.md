@@ -6,6 +6,8 @@ draft: false
 title: Instructor Insights
 uid: 957019e6-08c0-4070-b8a4-0d37998d6884
 ---
+## Instructor Interview
+
 Below, Dr. Peter Godart describes various aspects of how he taught the MITES course *Thermodynamics and Climate Change* in the summer of 2020.
 
 **OCW:** What approach did you take in developing the online textbook for this course?
