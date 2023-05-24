@@ -1,16 +1,12 @@
 ---
 content_type: page
-description: This page presents information on how the MITES course on THermodynamics
+description: This page presents information on how the MITES course on Thermodynamics
   and Climate Change was taught.
 draft: false
 title: Instructor Insights
 uid: 957019e6-08c0-4070-b8a4-0d37998d6884
 ---
-Below, Dr. Peter Godart describes various aspects of how he taught the MITES course on thermodynamics and climate change in the summer of 2020.
-
-**OCW:** Who were the students in your MITES course on *Thermodynamics and Climate Change*? How much grounding did they have in physics and climate science?
-
-**Peter Godart:** Thermodynamics and Climate Change was taught for several years through MITES Semester (formerly MOSTEC), offered by MIT's Office of Engineering Outreach Programs. This summer program is for highly motivated rising 12th grade students from diverse and underrepresented backgrounds. Prerequisites for the course include single variable calculus, a course in either chemistry or physics, and familiarity with the Python programming language, though many students were able to fill necessary gaps in the first two weeks of the course.
+Below, Dr. Peter Godart describes various aspects of how he taught the MITES course *Thermodynamics and Climate Change* in the summer of 2020.
 
 **OCW:** What approach did you take in developing the online textbook for this course?
 
@@ -32,7 +28,7 @@ Below, Dr. Peter Godart describes various aspects of how he taught the MITES cou
 
 ### **Prerequisites**
 
-With regard to mathematics, students should be proficient in algebra, matrix addition/multiplication, trigonometry, analytic geometry, and basic differentiation/integration. With regard to physics, students should have had prior exposure to and practice with Newton’s laws of motion, 1D kinematics, 2D projectile motion, and conservation of energy/momentum.
+Prerequisites for the course include single variable calculus, a course in either chemistry or physics, and familiarity with the Python programming language, though many students were able to fill gaps in their background knowledge within the first two weeks of the course.
 
 ### **Requirements Satisfied**
 
@@ -44,11 +40,11 @@ Occasionally
 
 ## **Assessment**
 
-There are no formal grades in the MITES summer program, but students do receive numerical grades on their assignments and exams so that they and the instructors can track their progress. 
+There are no formal grades in the MITES summer program, but students do receive numerical grades on their assignments so that they and the instructors can track their progress. 
 
 ## **Student Information**
 
-Students in the MITES summer program are placed into one of three tiers of physics classes based on their prior experience in the subject. Those who have never taken physics usually take Physics I. Those who have some exposure to physics (e.g., one class in basic mechanics) usually take Physics II. Students who have had substantial exposure to physics (e.g., multiple physics classes) and who also know calculus take Physics III. During the 2017 session, Physics III was *Introduction to Oscillations and Waves*.
+*Thermodynamics and Climate Change* was taught for several years through MITES Semester (formerly MOSTEC), offered by MIT's Office of Engineering Outreach Programs. This summer program is for highly motivated rising 12th grade students from diverse and underrepresented backgrounds. 
 
 ## **How Student Time Was Spent**
 
@@ -56,13 +52,8 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ### **Lectures**
 
-- Met twice per week for 1.5 hours per session; 12 sessions total; mandatory attendance.
-
-### **Recitations**
-
-- Met once per week for 1 hour per session; mandatory attendance.
-- In recitations, the teaching assistant fielded questions from students and helped them work through sample problems.
+- Met twice per week for 2 hours per session; 12 sessions total; mandatory attendance.
 
 ### **Out of Class**
 
-- Outside of class, students completed weekly problem sets and studied for the midterm and final exam.
+- Outside of class, students completed weekly problem sets on fundamental topics, as well as interactive coding assignments to simulate and analyze various thermodynamic systems. As a final group project, each student picked one of these systems and provided an in-depth analysis and simulation to better understand its potential for reducing greenhouse gas emissions.
