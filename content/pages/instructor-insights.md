@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: THis page presents information on how the MITES course on THermodynamics
+description: This page presents information on how the MITES course on THermodynamics
   and Climate Change was taught.
 draft: false
 title: Instructor Insights
