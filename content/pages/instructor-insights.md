@@ -48,7 +48,7 @@ There are no formal grades in the MITES summer program, but students do receive 
 
 ## **Student Information**
 
-*Thermodynamics and Climate Change* was taught for several years through MITES Semester (formerly MOSTEC), offered by MIT's Office of Engineering Outreach Programs. This summer program is for highly motivated rising 12th grade students from diverse and underrepresented backgrounds. 
+*Thermodynamics and Climate Change* was taught for several years through MITES Semester (formerly MOSTEC), offered by MIT's Office of Engineering Outreach Programs. This summer program is for highly motivated rising 12<sup>th</sup> grade students from diverse and underrepresented backgrounds. 
 
 ## **How Student Time Was Spent**
 
